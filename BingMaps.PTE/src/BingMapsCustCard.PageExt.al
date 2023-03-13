@@ -8,8 +8,8 @@ pageextension 74120 "BingMaps Cust Card" extends "Customer Card"
             {
                 ApplicationArea = All;
                 SubPageLink = "No." = FIELD("No.");
-                Caption = 'Customer Map';
-                Visible = ShowFactBox;
+                Caption = 'Customer Map Changed';
+                             Visible = ShowFactBox;
             }
         }
     }
